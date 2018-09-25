@@ -1,4 +1,4 @@
-"# Tembak-Three" 
+"# Tembak-Three"\n
 /**
  * Name:    Dor Three beta
  * Author:  Satria Wibawa
